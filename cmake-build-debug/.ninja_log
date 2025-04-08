@@ -1,0 +1,11 @@
+# ninja log v6
+5	589	7658032132223714	build.ninja	b6195ff17211877c
+58	587	7658032134578150	CMakeFiles/AtaP_laba_32.dir/Book.cpp.obj.ddi	e6da2910d2223ecd
+50	611	7658032134497843	CMakeFiles/AtaP_laba_32.dir/main.cpp.obj.ddi	af05be4c2d868d4b
+611	809	7658032141806375	CMakeFiles/AtaP_laba_32.dir/CXX.dd	78a7b0498b855351
+611	809	7658032141806375	C:/Users/black/CLionProjects/AtaP_laba_32/cmake-build-debug/CMakeFiles/AtaP_laba_32.dir/CXXModules.json	78a7b0498b855351
+611	809	7658032141806375	CMakeFiles/AtaP_laba_32.dir/main.cpp.obj.modmap	78a7b0498b855351
+611	809	7658032141806375	CMakeFiles/AtaP_laba_32.dir/Book.cpp.obj.modmap	78a7b0498b855351
+858	2565	7658032142583265	CMakeFiles/AtaP_laba_32.dir/Book.cpp.obj	b363de25b6d963a5
+842	2585	7658032142421562	CMakeFiles/AtaP_laba_32.dir/main.cpp.obj	359f34e7098cfab1
+2585	2994	7658032159842828	AtaP_laba_32.exe	52dcdcb42edf6d1

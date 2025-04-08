@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/AtaP_laba_32.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/AtaP_laba_32.dir/Book.cpp.obj: dyndep
+
